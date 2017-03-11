@@ -22,8 +22,7 @@ A curated list of awesome [Apache Lucene](http://lucene.apache.org/) packages an
 
 
 ## General
-  - []
-  - [Lucene Home]
+  
 
 ## Packages
 
