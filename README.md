@@ -22,12 +22,20 @@ A curated list of awesome [Apache Lucene](http://lucene.apache.org/) packages an
 
 
 ## General
+  - []
+  - [Lucene Home]
 
 ## Packages
 
 ### Tools
 
-### Clients
+### Libraries
+
+  - 
+
+  - [Lucene.NET](http://lucenenet.apache.org/) Lucene.Net is a port of the Lucene search engine library, written in C# and targeted at .NET runtime users.
+
+  
 
 ### Interfaces
 
@@ -39,14 +47,19 @@ A curated list of awesome [Apache Lucene](http://lucene.apache.org/) packages an
 
 ### Web Sites
 
+  - [Lucene Tutorial](http://www.lucenetutorial.com/) The goal of Lucene Tutorial.com is to provide a gentle introduction into Lucene.
+
 ### Blogs
 
 ### Docker Images
 
 ### Videos
 
+## License
 
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
 
