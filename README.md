@@ -56,10 +56,22 @@ A curated list of awesome [Apache Lucene](http://lucene.apache.org/) packages an
 ## Resources
 
 ### Documentation
+  - [Lucene Java Wiki](https://wiki.apache.org/lucene-java/) The official Lucene wiki.
+  - [Open Source Search (PDF)](https://www.research.ibm.com/haifa/Workshops/ir2005/papers/DougCutting-Haifa05.pdf)  a talk by Doug Cutting at IBM Research in Israel. 
 
 ### Books
 
+  - [Lucene in Action]
+  - [Building Search Applications: Lucene, LingPipe, and Gate]
+  - [Introduction to Apache Lucene]
+  - [Developing Search Engines with Apache Lucene]
+
 ### Tutorials
+
+  - [Apache Lucene Quickstart](https://lucene.apache.org/core/quickstart.html)
+  - [Lucene Tutorial](http://www.darksleep.com/lucene/)
+  - [Full Text Search of Dialogues with Apache Lucene: A Tutorial](https://www.toptal.com/database/full-text-search-of-dialogues-with-apache-lucene) As an example of this sort of customization, in this Lucene tutorial we will index the corpus of Project Gutenberg, which offers thousands of free e-books.
+  - [Getting Started with Lucene Setup](https://lucidworks.com/2009/09/02/getting-started-with-lucene-setup/) by Grant Ingersoll.
 
 ### Web Sites
 
@@ -69,6 +81,12 @@ A curated list of awesome [Apache Lucene](http://lucene.apache.org/) packages an
 
 ### Videos
 
+  - [Lucene Tutorial for Beginners](https://www.youtube.com/watch?v=4XV4Bwin1RE)
+  - [Apache Lucene: Then & Now](https://www.youtube.com/watch?v=5444z-L2V2A) A talk by Doug Cutting, creator of Lucene.
+  - [Full-text search with Lucene](https://www.youtube.com/watch?v=Nf9p-d01p78) & neat things you can do with it.
+  - [What is in a Lucene Index?](https://www.youtube.com/watch?v=T5RmMNDR5XI) 
+  - [Text search with Lucene (1 of 2)](https://www.youtube.com/watch?v=x37B_lCi_gc)
+  - [Text search with Lucene (2 of 2)](https://www.youtube.com/watch?v=fCK9U3L7c8U)
 
 ## Contribute
 
