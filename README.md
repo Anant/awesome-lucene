@@ -76,6 +76,7 @@ A curated list of awesome [Apache Lucene](http://lucene.apache.org/) packages an
 ### Web Sites
 
   - [Lucene Tutorial](http://www.lucenetutorial.com/) The goal of Lucene Tutorial.com is to provide a gentle introduction into Lucene.
+  - [Tutorials Point: Lucene](http://www.tutorialspoint.com/lucene/)
 
 ### Blogs
 
