@@ -63,6 +63,7 @@ A curated list of awesome [Apache Lucene](http://lucene.apache.org/) packages an
 
   - [Lucene in Action](https://www.amazon.com/Lucene-Action-Second-Covers-Apache/dp/1933988177/)
   - [Building Search Applications: Lucene, LingPipe, and Gate](https://www.amazon.com/Building-Search-Applications-Lucene-Lingpipe/dp/0615204252/)
+  - [Enterprise Lucene & Solr](https://www.amazon.com/Enterprise-Lucene-Solr-Lajos-Moczar/dp/0133521761/)
   - [Introduction to Apache Lucene]
   - [Developing Search Engines with Apache Lucene]
 
