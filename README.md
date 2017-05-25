@@ -8,7 +8,7 @@ A curated list of awesome [Apache Lucene](http://lucene.apache.org/) packages an
 - [General](#general)
 
 - [Packages](#packages)
-  - [Libraries](#interfaces)  Programming Language Specific Libs for Lucene.
+  - [Libraries](#libraries)  Programming Language Specific Libs for Lucene.
   - [Tools](#tools) Applications / Tools that work with Lucene.
   - [Projects](#projects) Other projects that use Lucene.
   
@@ -61,8 +61,8 @@ A curated list of awesome [Apache Lucene](http://lucene.apache.org/) packages an
 
 ### Books
 
-  - [Lucene in Action]
-  - [Building Search Applications: Lucene, LingPipe, and Gate]
+  - [Lucene in Action](https://www.amazon.com/Lucene-Action-Second-Covers-Apache/dp/1933988177/)
+  - [Building Search Applications: Lucene, LingPipe, and Gate](https://www.amazon.com/Building-Search-Applications-Lucene-Lingpipe/dp/0615204252/)
   - [Introduction to Apache Lucene]
   - [Developing Search Engines with Apache Lucene]
 
